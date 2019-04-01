@@ -12,4 +12,3 @@
 1. Activar entorno virtual `$ source env/bin/activate`
 1. Instalar dependencias pip `$ pip install -r requirements.txt`
 1. Instalar dependencias npm `$ npm install`
-1. Build frontend `$ npm run dev`
